@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Nair
-- 👀 I’m interested in Java, Python, Cubing, Anime etc
+- 👀 I’m interested in Python, Flutter, Algos, Cubing, Anime... etc
 - 🌱 I’m studying IT @ NITK
 - 📫 How to reach me vivekpremnair@gmail.com 
 <!---
